@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5ebfcc6b.css",
+    "main.js": "./static/js/main.1b62ef76.js",
+    "static/media/FoundersGrotesk-SemiboldItalic.otf": "./static/media/FoundersGrotesk-SemiboldItalic.9be0e7b4ba43da406150.otf",
+    "static/media/FoundersGrotesk-MediumItalic.otf": "./static/media/FoundersGrotesk-MediumItalic.3a1e9355c63f85d3a8fb.otf",
+    "static/media/FoundersGrotesk-RegularItalic.otf": "./static/media/FoundersGrotesk-RegularItalic.f829d58b38c907aa3055.otf",
+    "static/media/FoundersGrotesk-Semibold.otf": "./static/media/FoundersGrotesk-Semibold.9a058b46e1b1e219c6fa.otf",
+    "static/media/FoundersGrotesk-Medium.otf": "./static/media/FoundersGrotesk-Medium.bd60933299b8e5db144f.otf",
+    "static/media/FoundersGrotesk-Regular.otf": "./static/media/FoundersGrotesk-Regular.5e8e49c30472126309a6.otf",
+    "static/media/FoundersGrotesk-BoldItalic.otf": "./static/media/FoundersGrotesk-BoldItalic.fd3eb1401dd89f5ace24.otf",
+    "static/media/FoundersGrotesk-Bold.otf": "./static/media/FoundersGrotesk-Bold.3b64b3b0f03fecaaa081.otf",
+    "static/media/FoundersGrotesk-LightItalic.otf": "./static/media/FoundersGrotesk-LightItalic.081dcd6c857b9bc00f8c.otf",
+    "static/media/FoundersGrotesk-Light.otf": "./static/media/FoundersGrotesk-Light.d629d42efd025e8920c6.otf",
+    "static/media/Garnett-BlackItalic.ttf": "./static/media/Garnett-BlackItalic.81362b3a721fe6009fd3.ttf",
+    "static/media/Garnett-Black.ttf": "./static/media/Garnett-Black.eef49c940da23af73ae7.ttf",
+    "static/media/Garnett-BoldItalic.ttf": "./static/media/Garnett-BoldItalic.24107c11b5c3de8a101d.ttf",
+    "static/media/Garnett-MediumItalic.ttf": "./static/media/Garnett-MediumItalic.e4615792ba9f4b8a4d47.ttf",
+    "static/media/Garnett-Bold.ttf": "./static/media/Garnett-Bold.d8b38fc72fb3d2f2f06e.ttf",
+    "static/media/Garnett-RegularItalic.ttf": "./static/media/Garnett-RegularItalic.e2e76851e75d8cc65d88.ttf",
+    "static/media/Garnett-SemiboldItalic.ttf": "./static/media/Garnett-SemiboldItalic.f111debba309ec74f883.ttf",
+    "static/media/Garnett-Medium.ttf": "./static/media/Garnett-Medium.f4eaf25c1f7d40623231.ttf",
+    "static/media/Garnett-Regular.ttf": "./static/media/Garnett-Regular.4d0685aef4405740ae06.ttf",
+    "static/media/Garnett-Semibold.ttf": "./static/media/Garnett-Semibold.a85727982c38b6248b25.ttf",
+    "static/media/Garnett-LightItalic.ttf": "./static/media/Garnett-LightItalic.eed13811546531905193.ttf",
+    "static/media/Garnett-Light.ttf": "./static/media/Garnett-Light.3c167abd704e5fffa851.ttf",
+    "index.html": "./index.html",
+    "main.5ebfcc6b.css.map": "./static/css/main.5ebfcc6b.css.map",
+    "main.1b62ef76.js.map": "./static/js/main.1b62ef76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ebfcc6b.css",
+    "static/js/main.1b62ef76.js"
+  ]
+}
